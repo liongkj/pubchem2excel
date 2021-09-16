@@ -1,4 +1,473 @@
-Metoprolol
-digoxin
-Ginkgolide B
+Oenanthotoxin
+Okadaic acid
+Oleandrine
+Oleanolic acid
+Olepupuane
+Ouabain
 (+)-Catechin
+(+)-Lupanin
+(+)-Usninic acid
+(-)-Anabasin
+(-)-Limonene
+(-)-Nicotin
+(-)-Usninic acid
+10-Bromo-beta-chamigrene
+Aconitin
+Adonitoxigenin
+Adonitoxin
+Aesculetin
+Aethusin
+Agrimophol
+Ajmalicin
+Ajmalicine
+Ajmalin
+Albaspidin
+Allantoin
+Allicin
+Allyl isothiocyanate
+Amphikuemine
+Amygdalin
+Anagyrin
+Andrographolide
+Andromedotoxin
+Angasiol
+Anisodamine
+Anisodine
+Apiin
+Aplysiatoxine
+Aplysiaviolin
+Aplysinopsin
+Arecoline
+Aricin
+Aristolochia acid
+Ascaridol
+Asiaticoside
+Atropine
+Aucubin
+Benzyl benzoate
+Berbamin
+Berberin
+Berberine
+Bergapten
+Bergenin
+Betonicin
+Betulinic acid
+Borneol
+Brasilenyne
+Brevetoxine-2
+Bromelain
+Bromoaplysin
+Brucin
+Bufotenin
+Bulbocapnin
+Caffeine
+Calycanthin
+Camphor
+Camptothecin
+Cannabinol
+Capnellane
+Capsaicin
+Cardol
+Carnegin
+Carpain
+Caulerpenyn
+Cheirosid A
+Cheirotoxin
+Chelerythrin
+Chelidonin
+Chinidin 
+Chlorogenic acid
+Chrysarobin
+Chymopapain
+Cicutoxin
+Cinchonidin
+Cinchonin
+Cinerin I
+Cinerin II
+Cocain
+Cocaine
+Codeine
+Coelenteratene-Luziferine
+Coffein
+Colchicin
+Colchicine
+Convallamarogenin
+Convallatoxin
+Convolvamin
+Conyrin
+Corynanthin
+Cotinin
+Crenulide
+Cucurbitacin I
+Cularin
+Coumarin
+Curcumin
+Cycasin
+Cyclamin
+Cyclobuxin-D
+Cymarin
+Cymarol
+Cymopol
+Cynarin
+Cypridina-type-Luziferine
+Cytisin
+D-Sparteine
+DL-Coniin
+DL-Corypalmin
+DL-Laudanosine
+Danthron
+Daphnetine
+Daphnetoxine
+Delphinine
+Demecolcine
+Demissidine
+Dendrolasine
+Denticulatolid
+Deserpidine
+Deslanoside
+Diginatin
+Digitonin
+Digitoxigenin
+Digitoxin
+Digoxigenin
+Dregamine
+Dymethylscalarane
+Eburnamonine
+Emetine
+Emetine
+Ephedrine
+Ephedrine
+Eschscholzine
+Etoposide
+Eupatorine
+Euphorbol
+Evomonoside
+Evonine
+Fasciculatine
+Ferulic acid
+Flexibilide
+Frangulin A
+Frangulin B
+Friedeline
+Furanoquinone
+Furodysinine
+Furoscalarol
+Galanthamine
+Gelsemine
+Ghiselinin
+Gitalin
+Gitaloxigenin
+Gitaloxin
+Gitoxigenin
+Gitoxin
+Glaucarubin
+Glaucine
+Glaucine
+Glucocheirolin
+Glucofrangulin A
+Glucofrangulin B
+Glucoiberin
+Glycyrrhizin
+Gossypol
+Gossypol
+Gratiolon
+Gratioside
+Halenaquinone
+Halimedatriale
+Harmaline
+Harmane
+Harmine
+Harmol
+Hellebrin
+Helveticoside
+Helveticosol
+Herniarin
+Hesperidin
+Holocalin
+Holothurine A
+Hydrastine
+Hydrastine
+Hydroquinone
+Hygrine
+Hyoscyamine
+Hypericin
+Hyperoside
+Ibogaine
+Imperatorin
+Imperialine
+Irinotecan
+Isopilocarpine
+Isopilosine
+Isoreserpilin
+Jervine
+Juglone
+K-Strophantin
+Kalhinol A
+Kawain
+Khellin
+Khellinin
+L-Dopa
+L-Hyoscyamine
+L-Sparteine
+Lactucin
+Lactucopicrin
+Lanadoxin
+Lanatoside A
+Lanatoside B
+Lanatoside C
+Lapachol
+Latrunculin A
+Latrunculin B
+Lawsone
+Ledol
+Limonene
+Lobelanidine
+Lobelanine
+Lophotoxin
+Lupeol
+Lupinine
+Lycorine
+Lysergic acid diethylamide
+Magnoflorine
+Manoalide
+Meconic acid
+Menthol
+Mesaconitine
+Mescaline
+Methyl salicylate
+Mezerein
+Microcionin
+Monocrotaline
+Monotropitoside
+Morphine
+Mycalasine A
+N-Methylcytisine
+Nakafuran
+Narceine
+Narcotine
+Neoandrographolide
+Neriifolin
+Nicotine
+Nordihydroguaiaretic acid
+Norharmane
+Norloline
+Norlupinane
+Nornicotine
+Noscapine
+Quinidine
+Quinine
+Quinine
+Ranunculin
+Raucaffricine
+Rauwolscine
+Rescinnamine
+Rescinnamine
+Reserpine
+Retronecin
+Retrorsin
+Rhoeadine
+Robinin
+Rorifone
+Rotenone
+Rotenone
+Rotundine
+Rutin
+Sabinene
+Safranal
+Safrol
+Salicin
+Salicylic acid
+Salsolidine
+Salsoline
+Sambunigrine
+Sanguinarine
+Sanguinarine
+Santonin
+Sarcophytoxide
+Sarpagine
+Sarsasapogenin
+Saxitoxin
+Scillaren A
+Scopolamine
+Scopoletine
+Scoulerine
+Sempervirine
+Senecionine
+Senkirkine
+Sennidine A
+Sennidine B
+Sennosid A
+Sennosid B
+Serpentine
+Sesquiterpenaminoquinone
+Silymarin
+Siphonodictidine
+Siphonodictyal
+Soladulcidine
+Solamargine
+Solanidine
+Solanocapsine
+Solasodine
+Stevioside
+Strophanthidol
+Strospeside
+Strychnine
+Strychnine
+Sulfatiated steroide
+Suvanine
+Taxicatine
+Taxine A
+Taxine B
+Taxol
+Teniposide
+Tetrahydroalstonine
+Tetrahydrocannabinol
+Tetrahydroharmane
+Tetrahydropalmatine
+Tetrandrine
+Tetrodotoxine
+Thebaine
+Theobromine
+Thevetine
+Thornasteroside
+Thujyl alcohol
+Thymol
+Thymol
+Thyramine
+Tomatidine
+Tomatine; (Lycopersicine)
+Topotecan
+Tryptamine
+Tubocurarine
+Tubocurarine chloride
+Tulipaline A
+Tuliposid B
+Ursolic acid; (Ursone; Malol; Prunol)
+Urushiol
+Uzarigenin; (Odorigenin)
+Vasicine
+Veratridine
+Verbenalin; (Verenaloside; Cornin)
+Vicine; (Vicioside)
+Vinblastine
+Vincristine; (Leurocristine)
+Vulpinic acid
+Xanthotoxine; (8-MOP; Ammoidine; 8-Methoxypsoralen)
+Xanthotoxol
+Yohimbine
+Yohimbine; (Aphrodine; Corynine; Quebrachine)
+Yohimbinic acid
+Yuanhuacine
+Yuanhuadine
+Zierin
+acetyl
+aclarubicin
+actinomycin D
+aescin
+alpha-Allocryptopin
+alpha-Amyrin
+alpha-Asaron; (trans-Arason)
+alpha-Hederine; (Helixin)
+alpha-Lobeline
+alpha-Pinene
+alpha-Piperitone; ((+)-Piperitone)
+alpha-Santonin
+alpha-Solanine; (Solatunine)
+alpha-Thujon
+aminolevulinic acid
+aplidine
+artemisinin
+beta-Aescin
+beta-Asaron; (cis-Asaron)
+beta-Lumicolchicine
+beta-Nicotyrine
+beta-Pinene; (Nopinene; Pseudopinene)
+beta-Santonin
+beta-Thujone
+beta-amyrin
+bleomycin
+caffeic acid
+carumonam
+chromomycin A3
+daptomycin
+daunomycin
+delta9-Tetrahydrocanabinole
+digoxin
+fidaxomicin
+fosfomycin trometamol
+gamma-Lumicolchicine
+gamma-Strophanthin
+homoharringtonine
+ingenol mebutate
+isepamicin
+ivermectin
+(-)-Piperitone
+micronomicin sulfate
+miokamycin
+mithramycin
+mitomycin C
+mupirocin
+neocarzinostatin
+netilmicin sulfate
+p-Arbutin
+p-Coumaric acid
+pentostatin
+peplomycin
+romidepsin
+sarkomycin
+teicoplanin
+testosterone
+trabectedin
+vinblastine
+vincristine
+voglibose
+tetramethylpyrazine
+paeoniflorin
+icariin
+puerarin
+Salvianolic acid B
+Rhynchophy-lline
+Costunolide
+Gastrodin
+Camptothecin
+Ginkgolide B
+Pinitol
+Plumbagin
+Podophyllotoxin
+Podophyllotoxin
+Polygodial
+Primin
+Proscillaridin A
+Prostaglandin A2
+Protopine
+Protovaretrine B
+Protoveratrine A
+Protoverine
+Prunasine
+Psoralen
+Pulegon
+Pyrethrin I
+Pyrethrin II
+Quassin
+Quercetin
+Oxyacanthine
+Pachycarpine
+Pahutoxin
+Palmatine
+Palustrine
+Palytoxine
+Panacene
+Papavarine
+Papaverine
+Parasorbic acid
+Pavonine
+Petrosin A
+Phorbol
+Phyllodulcin
+Physostigmine
+Phytolaccagenin
+Picrotin
+Picrotoxin
+Picrotoxinin
+Pilocarpine
+Pilosine

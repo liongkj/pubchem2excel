@@ -1,4 +1,4 @@
 input.txt
 /output/*
-.vscode
-env
+/.vscode/
+/env/

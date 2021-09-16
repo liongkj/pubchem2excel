@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/home/liongkj/downloads/pubchem2excel/env/bin/python3.9"
+    "python.pythonPath": "/home/liongkj/downloads/pubchem2excel/env/bin/python3.9",
+    "python.formatting.provider": "black"
 }
