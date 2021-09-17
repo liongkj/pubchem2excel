@@ -16,13 +16,12 @@ import base64
 
 def main():
     dir_base = os.getcwd()
-    file = open("input.txt", "r")
-    lines = file.readlines()
-    lines.sort()
-    # nonempty_lines = [line.strip("\n") for line in file]
-    line_count = len(lines)
+    line_count = 0
+    with open("input.txt", "r") as file:
+        lines = file.readlines()
+        lines.sort()
+        line_count = len(lines)
     print(line_count)
-    file.close()
     notfound = ""
     with open("input.txt", "r") as file1:
         df_prop_col = pd.DataFrame(
@@ -46,10 +45,7 @@ def main():
             # print
             if response.status_code == 200:
                 res = response.json()
-                # print(res)
                 comp = res["PC_Compounds"][0]
-                # print(comp.keys())
-                cid = comp["id"]["id"]["cid"]
                 props = comp["props"]
                 prop_keys = [
                     "IUPAC Name",
@@ -82,8 +78,6 @@ def main():
                             prop_dic[pr["urn"]["name"]] = pr["value"]["ival"]
                         elif p == pr["urn"]["label"]:
                             prop_dic[pr["urn"]["label"]] = pr["value"].values()
-                # prop_tup = [()]
-                # prop_list.append(prop_tup)
 
                 structure = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{slugify}/PNG"
                 # df_prop_col = pd.DataFrame.from_records(prop_tup,columns=prop_keys)
@@ -116,12 +110,10 @@ def main():
         html = df_prop_col.to_html(
             escape=False, formatters={"structure": image_formatter}
         )
-        nt_found = open("./output/notfound.txt", "w")
-        nt_found.write(notfound)
-        nt_found.close()
-        text_file = open("./output/index.html", "w")
-        text_file.write(html)
-        text_file.close()
+        with open("./output/notfound.txt", "w") as nt_found:
+            nt_found.write(notfound)
+        with open("./output/index.html", "w") as text_file:
+            text_file.write(html)
 
 
 def get_thumbnail(path):
