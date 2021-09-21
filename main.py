@@ -117,11 +117,7 @@ def main():
 
 
 def get_thumbnail(path):
-    # path = (
-    #     "\\\\?\\" + path
-    # )  # This "\\\\?\\" is used to prevent problems with long Windows paths
-    i = Image.open(path)
-    return i
+    return Image.open(path)
 
 
 def image_base64(im):
